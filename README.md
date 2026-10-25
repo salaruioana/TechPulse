@@ -65,14 +65,8 @@ No API key is required for the public endpoints used here. An internet connectio
 - https://hn.algolia.com/api
 - https://github.com/HackerNews/API
 
-## Suggested paper outline (Springer LNCS, around 10 pages)
-
-1. Introduction and research questions
-2. Related work and platform context
-3. APIs and data model
-4. Methodology and implementation
-5. Results from selected topics and time windows
-6. Limitations and lessons learned
-7. Conclusion
-
-When reporting results, record the retrieval date, query, date range, content type, and sample cap.
+![Search interface](photos/search_interface.png)
+![Search results](photos/search_results.png)
+![Discussion interface](photos/discussion_visual.png)
+![Discussion comments](photos/discussion_comments.png)
+![Trend Explorer](photos/trend_explorer.png)
